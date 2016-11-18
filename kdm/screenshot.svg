@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="393"
+   height="291"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="screenshot.svg"
+   inkscape:export-filename="screenshot.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2863"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2934"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3005"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3130"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3201"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3276"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3404"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8659794"
+     inkscape:cx="196.5"
+     inkscape:cy="145.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4203"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-761.36218)">
+    <g
+       id="g4203">
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/background.png"
+         xlink:href="background.png"
+         width="393"
+         height="291"
+         id="image2865"
+         x="0"
+         y="761.36218" />
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/welcome-time-shadowed.png"
+         xlink:href="welcome-time-shadowed.png"
+         style="opacity:0.25"
+         y="761.36218"
+         x="-0.050003052"
+         id="image2936"
+         height="22.899029"
+         width="393.10001" />
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/corp-logo.png"
+         xlink:href="corp-logo.png"
+         y="1027.9913"
+         x="276.60715"
+         id="image3007"
+         height="19.651089"
+         width="106.60715"
+         style="opacity:0.8" />
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/main-runner.png"
+         xlink:href="main-runner.png"
+         style="opacity:0.2"
+         y="860.65747"
+         x="0"
+         id="image3132"
+         height="92.963905"
+         width="393" />
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/branding-icon.png"
+         xlink:href="branding-icon.png"
+         y="894.81934"
+         x="49.753571"
+         id="image3278"
+         height="24.507202"
+         width="88.716064" />
+      <text
+         transform="scale(1.0336464,0.96744883)"
+         id="text3286"
+         y="934.01642"
+         x="182.05011"
+         style="font-size:6.97109509000000038px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="934.01642"
+           x="182.05011"
+           id="tspan3288"
+           sodipodi:role="line">Nombre de usuario:</tspan></text>
+      <text
+         transform="scale(1.0063339,0.99370597)"
+         id="text3315"
+         y="921.35077"
+         x="186.87921"
+         style="font-size:7.17562437000000042px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="921.35077"
+           x="186.87921"
+           id="tspan3317"
+           sodipodi:role="line">Contraseña:</tspan></text>
+      <rect
+         y="897.45148"
+         x="262.41074"
+         height="7.6785717"
+         width="75.089287"
+         id="rect3319"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         id="text3323"
+         y="771.83008"
+         x="7.9554296"
+         style="font-size:6.41606759999999987px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3327"
+           y="771.83008"
+           x="7.9554296"
+           sodipodi:role="line">Bienvenido a</tspan></text>
+      <text
+         transform="scale(0.99102767,1.0090536)"
+         id="text3331"
+         y="1031.4089"
+         x="15.493754"
+         style="font-size:7.90521048999999998px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="1031.4089"
+           x="15.493754"
+           id="tspan3333"
+           sodipodi:role="line">Tipo de sesión</tspan></text>
+      <text
+         transform="scale(0.98769392,1.0124594)"
+         id="text3335"
+         y="1028.0768"
+         x="82.569565"
+         style="font-size:7.97245025999999957px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="1028.0768"
+           x="82.569565"
+           id="tspan3337"
+           sodipodi:role="line">Menú</tspan></text>
+      <image
+         sodipodi:absref="/home/ehbello/src/bzr/bardinux-meta/trunk/bardinux-default-settings/gcs/newfiles_skel/usr/share/kde4/apps/kdm/themes/bardinux/dots.png"
+         xlink:href="dots.png"
+         y="1023.229"
+         x="74.699455"
+         id="image3406"
+         height="29.249998"
+         width="7.3124995" />
+      <rect
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3321"
+         width="75.089287"
+         height="7.6785717"
+         x="262.41071"
+         y="909.14789" />
+    </g>
+  </g>
+</svg>
