@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="241"
+   height="88"
+   id="svg6436"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="bardinux_logo.svg"
+   inkscape:export-filename="bardinux_logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6438">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective6444" />
+    <inkscape:perspective
+       id="perspective6390"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter7859-7"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix7861-3"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6396"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6398"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6400"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6402"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6404"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6406"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6408"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6410"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6412"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6414"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter6416"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6418"
+         type="saturate"
+         values="0" />
+    </filter>
+    <inkscape:perspective
+       id="perspective6570"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4806"
+       id="radialGradient7597"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78123406,-0.00279027,0.00234391,0.4557366,-206.3524,217.41979)"
+       cx="-392.68732"
+       cy="190.19373"
+       fx="-392.68732"
+       fy="190.19373"
+       r="320" />
+    <linearGradient
+       id="linearGradient4806"
+       inkscape:collect="always">
+      <stop
+         id="stop4808"
+         offset="0"
+         style="stop-color:#44d8ff;stop-opacity:1" />
+      <stop
+         id="stop4810"
+         offset="1"
+         style="stop-color:#009bf9;stop-opacity:0.98360658" />
+    </linearGradient>
+    <radialGradient
+       r="20"
+       fy="16.234577"
+       fx="197.48041"
+       cy="16.234577"
+       cx="197.48041"
+       gradientTransform="matrix(25.612537,5.0318948,-1.2875263,7.2615473,-5733.3989,-955.3841)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6715"
+       xlink:href="#linearGradient2295-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2295-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2297-9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2299-1" />
+    </linearGradient>
+    <radialGradient
+       r="20"
+       fy="16.234577"
+       fx="197.48041"
+       cy="16.234577"
+       cx="197.48041"
+       gradientTransform="matrix(25.612537,5.0318948,-1.2875263,7.2615473,-5733.3989,-955.3841)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6585"
+       xlink:href="#linearGradient2295-3"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective7216"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter7859-7-0"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix7861-3-3"
+         type="saturate"
+         values="0" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3937"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3959"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter7859-7-0-3"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix7861-3-3-8"
+         type="saturate"
+         values="0" />
+    </filter>
+    <inkscape:perspective
+       id="perspective31546"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter7859-7-0-7-9"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix7861-3-3-6-3"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter7859-7-0-75"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix7861-3-3-8-0"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3677-0-2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61240497"
+         id="feGaussianBlur3679-3-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3862-4"
+       x="-0.018240552"
+       width="1.0364811"
+       y="-0.15410459"
+       height="1.3082092">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1084786"
+         id="feGaussianBlur3864-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter32565"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.19068882"
+         id="feGaussianBlur32567" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="83.405513"
+     inkscape:cy="28.493006"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata6441">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-275.11933,-260.94504)">
+    <g
+       id="g4007" />
+    <g
+       id="g4081"
+       transform="matrix(1.0320524,0,0,1.0320524,8.9283041,-26.659967)">
+      <g
+         id="g32518"
+         transform="matrix(1.927224,0,0,1.927224,-178.94542,-449.30712)">
+        <path
+           id="path7843-9-5"
+           d="m -324.47242,-218.37748 c -66.17551,0 -119.86567,53.72775 -119.86556,119.903138 0,66.17539 53.69016,119.865555 119.86556,119.865555 66.17538,0 119.90307,-53.690165 119.90307,-119.865555 0,-66.175448 -53.72769,-119.903138 -119.90307,-119.903138 z m -1.69098,45.91716 c 41.77027,0 75.67689,33.90657 75.67689,75.676843 0,41.770329 -33.90662,75.676898 -75.67689,75.676898 -41.77033,0 -75.67684,-33.906569 -75.67684,-75.676898 1.1e-4,-41.770273 33.90662,-75.676843 75.67684,-75.676843 z"
+           style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#512e5a;stroke-width:5.47082186;stroke-linecap:round;stroke-opacity:1;filter:url(#filter7859-7-0-75)"
+           transform="matrix(0.11110771,0,0,0.11110771,287.11752,410.80007)" />
+        <path
+           id="path3907-1"
+           d="m 251.06822,386.2361 c -7.52038,0 -13.62063,6.10026 -13.62063,13.62063 0,7.52036 6.10026,13.62063 13.62063,13.62063 7.52036,0 13.62063,-6.10027 13.62063,-13.62063 0,-7.52037 -6.10027,-13.62063 -13.62063,-13.62063 z m -0.19458,5.70769 c 4.4777,0 8.10752,3.62982 8.10752,8.10752 0,4.47769 -3.62982,8.10751 -8.10752,8.10751 -4.47769,0 -8.10752,-3.62982 -8.10752,-8.10751 0,-4.4777 3.62983,-8.10752 8.10752,-8.10752 z"
+           style="fill:#782167;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter32565)" />
+        <g
+           id="g32500">
+          <g
+             id="g3870-7"
+             transform="matrix(0.51888114,0,0,0.51888114,92.095571,233.13692)">
+            <path
+               transform="matrix(1.4418015,0,0,1.4418015,293.21292,317.12095)"
+               d="m 21.086934,3.0482116 c 0,6.7644384 -5.483661,12.2480994 -12.2480992,12.2480994 -6.7644385,0 -12.2480994,-5.483661 -12.2480994,-12.2480994 0,-6.7644385 5.4836609,-12.2480994 12.2480994,-12.2480994 6.7644382,0 12.2480992,5.4836609 12.2480992,12.2480994 z"
+               sodipodi:ry="12.248099"
+               sodipodi:rx="12.248099"
+               sodipodi:cy="3.0482116"
+               sodipodi:cx="8.8388348"
+               id="path6421-5-9-4"
+               style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:0.81250036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3677-0-2)"
+               sodipodi:type="arc" />
+            <g
+               id="g3866-3">
+              <path
+                 style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.17146432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 298.12656,345.53922 c 1.02905,0.35523 2.92609,0.80916 4.01007,1.03116 1.65567,0.33907 2.48375,0.34372 4.2392,0.34372 1.75547,0 3.44282,-0.17637 5.09852,-0.51558 1.65569,-0.33908 3.29036,-0.84547 4.81209,-1.48946 1.19494,-0.50568 2.45824,-1.10099 3.55178,-1.77591 l -4.23924,-5.72865 -2.69244,-7.90556 -0.17193,-14.60812 c 0,0 -3.25828,-5.35663 -3.32264,-5.61408 -0.0644,-0.25756 -1.60404,5.15579 -1.60404,5.15579 l -4.2392,0.0576 -0.17194,1.71861 -5.84325,0.11474 0.63015,8.02015 3.20806,0.97384 -3.20806,8.02015 -0.0572,12.20209 z"
+                 id="path6423-2-6-1"
+                 sodipodi:nodetypes="cssssccccscccccccc" />
+              <path
+                 style="opacity:0.4;fill:none;stroke:#ffffff;stroke-width:1.17146373;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 300.00433,344.59148 c 5.84322,2.06233 14.36173,0.0274 17.28337,-1.8629 l -3.39712,-4.4981 -2.74978,-8.42933 -0.17365,-14.3357 -1.06387,-1.73437 -0.77047,2.45103 -3.83643,0.11576 -0.27948,1.68472 -5.5451,0.11576 0.44307,4.79454 3.97616,1.22759 -3.87036,9.64287 -0.0171,10.82816 z"
+                 id="path6473-6-9-4"
+                 sodipodi:nodetypes="cccccccccccccc" />
+            </g>
+            <path
+               sodipodi:nodetypes="ccccccccccc"
+               id="path2263-5-3-6"
+               d="m 281.8611,318.41888 c 0.0308,2.78421 7.08375,0.57977 7.11403,2.09292 -0.0606,-2.29999 0.90636,-5.46686 2.49815,-8.15475 1.78177,-2.77889 3.70849,-4.1084 5.62889,-5.50084 1.93685,-1.10572 5.97142,-2.57937 9.03019,-2.39779 10.47097,0.27228 17.8714,9.87972 17.90163,16.50732 l -0.72628,6.35524 c -0.15138,2.36051 7.41443,-0.27228 7.17232,1.63419 0.51445,-1.45264 0.79862,-4.66269 0.67759,-8.11269 -0.0606,-12.25651 -10.05914,-24.00072 -25.00903,-24.2731 -13.06135,0.32434 -22.74193,9.51765 -24.28749,21.8495 z"
+               style="opacity:0.3064516;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+          </g>
+          <g
+             id="g32489">
+            <text
+               transform="matrix(0.19525009,0,0,0.25290482,307.21434,421.90553)"
+               sodipodi:linespacing="100%"
+               id="text7855-3-9"
+               y="-65.157379"
+               x="-261.08591"
+               style="font-size:55.74987793px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.50255513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;filter:url(#filter3862-4);font-family:Conduit 2 BRK;-inkscape-font-specification:Conduit 2 BRK"
+               xml:space="preserve"><tspan
+                 y="-65.157379"
+                 x="-261.08591"
+                 style="font-size:65.13421631px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.50255513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;font-family:Automatica BRK;-inkscape-font-specification:Automatica BRK"
+                 id="tspan7857-8-4"
+                 sodipodi:role="line">bardinux</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:12.38848019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Conduit 2 BRK;-inkscape-font-specification:Conduit 2 BRK"
+               x="291.62534"
+               y="356.22931"
+               id="text7224-0-2"
+               sodipodi:linespacing="100%"
+               transform="scale(0.87865232,1.1381066)"><tspan
+                 sodipodi:role="line"
+                 id="tspan7471-5-2"
+                 style="font-size:14.47382736px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;font-family:Automatica BRK;-inkscape-font-specification:Automatica BRK"
+                 x="291.62534"
+                 y="356.22931">bardinux</tspan></text>
+            <g
+               id="g7692-6"
+               transform="matrix(0.82155318,0,0,0.82155318,707.93728,154.46379)">
+              <text
+                 transform="matrix(0.2376565,0,0,0.30783328,-487.76378,325.53151)"
+                 sodipodi:linespacing="100%"
+                 id="text7855-3-8-7"
+                 y="-65.157379"
+                 x="-261.08591"
+                 style="font-size:55.74987793px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.50255513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;font-family:Conduit 2 BRK;-inkscape-font-specification:Conduit 2 BRK"
+                 xml:space="preserve"><tspan
+                   y="-65.157379"
+                   x="-261.08591"
+                   style="font-size:65.13421631px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.50255513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;font-family:Automatica BRK;-inkscape-font-specification:Automatica BRK"
+                   id="tspan7857-8-1-5"
+                   sodipodi:role="line">bardinux</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:15.07913685px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Conduit 2 BRK;-inkscape-font-specification:Conduit 2 BRK"
+                 x="-625.7453"
+                 y="268.40536"
+                 id="text7224-0-2-6"
+                 sodipodi:linespacing="100%"
+                 transform="scale(0.87865232,1.1381066)"><tspan
+                   sodipodi:role="line"
+                   id="tspan7471-5-2-9"
+                   style="font-size:17.61740112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;font-family:Automatica BRK;-inkscape-font-specification:Automatica BRK"
+                   x="-625.7453"
+                   y="268.40536">bardinux</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
